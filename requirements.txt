@@ -1,0 +1,1 @@
+You need to go to the MySQL website and download the community developer edition, ensure it runs locally on your device, and download the community Workbench
